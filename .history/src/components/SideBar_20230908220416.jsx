@@ -23,7 +23,7 @@ const SideBar = ({ selectedCategory, setSelectedCategory }) => {
           className="
         flex gap-2 items-center
          hover:bg-[#ff6e40] text-white 
-          py-1 px-3 m-1 rounded-xl opacity-[0.7] hover:opacity-[1]"
+          py- px-3 rounded-xl opacity-[0.7] hover:opacity-[1]"
         >
           <span>{cat.icon}</span>
           <span className="hidden md:block">{cat.name}</span>

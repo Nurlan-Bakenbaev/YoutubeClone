@@ -7,7 +7,7 @@ const options = {
     maxResults: "10",
   },
   headers: {
-    "X-RapidAPI-Key": import.meta.env.VITE_REACT_APP_API_KEY,
+    "X-RapidAPI-Key": process.env.REACT_APP_API_KEY;,
     "X-RapidAPI-Host": "youtube-v31.p.rapidapi.com",
   },
 };
