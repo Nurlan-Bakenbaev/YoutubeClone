@@ -1,4 +1,4 @@
-# Nur-Tube - Your YouTube Clone
+# Nur-Tube - YouTube Clone
 
 Welcome to Nur-Tube, your YouTube clone built with React JS, JavaScript, React Router DOM, Material-UI, Tailwind CSS, React Player, RapidAPI, YouTube V3 API, and Firebase for authentication. 
 
